@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-3834275796674664077
+--- !u!114 &-6692965553844098430
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Color
-  m_Shader: {fileID: -6465566751694194690, guid: 5003800310a6b934faa67748dd2d35ed,
+  m_Name: Shader Graphs_Transparency
+  m_Shader: {fileID: -6465566751694194690, guid: 690201338da3f9d4f8708d05d1ea8135,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -58,6 +58,6 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _BaseColor: {r: 0.24296898, g: 0.49056596, b: 0.4589048, a: 0}
+    - _BaseColor: {r: 1, g: 0, b: 0.9815202, a: 1}
     - _ScrollVelocity: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
